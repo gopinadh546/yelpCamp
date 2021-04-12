@@ -1,2 +1,3 @@
 # yelpCamp
-project done while learning the web development bootcamp
+##  My practice web development project
+Done while learning the course in udemy
